@@ -10,7 +10,6 @@ In this project, we focused on implementing basic HTML and CSS to create a compa
 
 3. **Links and Navigation**: Proper use of the `<a>` tag and understanding relative and absolute paths is crucial to creating functional navigation within the website.
 
-4. **Forms**: Creating interactive forms using HTML `<form>` and input elements like `<input>`, `<select>`, `<textarea>`, etc., allows users to submit data easily.
 
 ## CSS Key Takeaways:
 
@@ -31,5 +30,3 @@ For further learning and exploration of HTML and CSS, here are some recommended 
 - **CSS-Tricks**: [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) and [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 
 Remember, practice is crucial for mastering HTML and CSS implementation. Keep experimenting, building projects, and referring to documentation to strengthen your skills!
-
-If you have any further questions or need additional guidance, feel free to reach out to me at [your-email@example.com](mailto:your-email@example.com). Happy coding!
